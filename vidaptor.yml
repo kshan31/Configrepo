@@ -1,6 +1,6 @@
 build:
   version: "2.0"
-accounts:
+vidaptor:
   message: "Welcome to Vidaptor"
   contactDetails:
     email: "vidaptor@bank.com"
