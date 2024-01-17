@@ -1,2 +1,3 @@
 server:
   port: 2003
+  gw: http://10.10.10.218
