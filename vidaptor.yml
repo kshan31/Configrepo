@@ -3,6 +3,6 @@ server:
 build:
   version: "2.0"
 vidaptor:
-  message: "Welcome to Vidaptor"
+  message: "Welcome to Vidaptorxxx"
   contactDetails:
     email: "vidaptor@bank.com"
