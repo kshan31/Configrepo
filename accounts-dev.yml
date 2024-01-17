@@ -2,6 +2,6 @@
 build:
   version: "2.0"
 accounts:
-  message: "Welcome to our Banksdsds"
+  message: "Welcome to our B"
   contactDetails:
     email: "accountsdev@bank.com"
