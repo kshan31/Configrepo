@@ -1,6 +1,6 @@
 build:
   version: "2.0"
 accounts:
-  message: "Welcome to our vellore"
+  message: "Welcome to our vellore saidapet"
   contactDetails:
-    email: "accountsdev@bank.com"
+    email: "accountsdev@bank.com123"
