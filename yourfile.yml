@@ -1,7 +1,6 @@
----
 build:
   version: "2.0"
 accounts:
-  message: "Welcome to our Baaaaaaaaaaaaa"
+  message: "Welcome to our Nahil Computers"
   contactDetails:
     email: "accountsdev@bank.com"
