@@ -4,15 +4,7 @@ server:
 spring:
   application:
     name: vidaptor-data
-  data:
-    mongodb:
-#      host: 10.10.10.218
-#      port: 27017
-#      authentication-database: admin
-#      username: vidaptor
-#      password: Cs456321
-      auto-index-creation: true
-      database: masterdb
+  
   profiles: 
     active: dev
   cloud:
