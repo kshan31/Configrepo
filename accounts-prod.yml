@@ -1,6 +1,6 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to our "
+  message: "Welcome to our company "
   contactDetails:
     email: "accountsprod@bank.com"
