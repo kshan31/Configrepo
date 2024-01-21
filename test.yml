@@ -1,1 +1,6 @@
-
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to our test "
+  contactDetails:
+    email: "test@bank.com"
