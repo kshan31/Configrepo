@@ -1,8 +1,6 @@
-name: "John"
-age: 25
-address:
-  city: "New York"
-  zip: "10001"
-contacts:
-  email: "john@example.com"
-  phone: "123-456-7890"
+address.zip: "10001"
+address.city: "New York"
+contacts.phone: "123-456-7890"
+name: "John william"
+contacts.email: "john@example.com"
+age: "25"
