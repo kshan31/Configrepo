@@ -1,6 +1,6 @@
 build:
-  version: "2.0"
+  version: "2.2"
 accounts:
-  message: "Welcome to our company"
+  message: "Welcome to our company vel"
   contactDetails:
-    email: "accountsdev@bank.com"
+    email: "accountsdev@bank123.com"
