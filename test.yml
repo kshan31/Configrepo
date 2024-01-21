@@ -1,6 +1,6 @@
-server:
-  port: 2003
-  gw: "http://10.10.10.218"
 spring:
   application:
     name: "vidaptor-dataaahhhhhhhhhhhhhhhhh"
+server:
+  gw: "http://10.10.10.200"
+  port: "2003"
