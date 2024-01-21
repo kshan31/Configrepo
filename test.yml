@@ -1,6 +1,6 @@
-address.zip: "10001"
-address.city: "New York"
-contacts.phone: "123-456-7890"
-name: "John william"
-contacts.email: "john@example.com"
-age: "25"
+server:
+  port: 2003
+  gw: "http://10.10.10.218"
+spring:
+  application:
+    name: "vidaptor-dataaahhhhhhhhhhhhhhhhh"
