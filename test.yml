@@ -1,6 +1,8 @@
-build:
-  version: "1.0"
-accounts:
-  message: "Welcome to our test "
-  contactDetails:
-    email: "test@bank.com"
+name: "John"
+age: 25
+address:
+  city: "New York"
+  zip: "10001"
+contacts:
+  email: "john@example.com"
+  phone: "123-456-7890"
