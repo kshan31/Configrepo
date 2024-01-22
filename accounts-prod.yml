@@ -1,6 +1,2 @@
 build:
-  version: "1.0123"
-accounts:
-  message: "Welcome to our company123 "
-  contactDetails:
-    email: "accountsprod@bank.com123"
+  version: "1.0123111"
