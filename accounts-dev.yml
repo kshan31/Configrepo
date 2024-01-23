@@ -1,6 +1,6 @@
 build:
-  version: "2.2a"
+  version: "2.2"
 accounts:
-  message: "Welcome to our company vela"
+  message: "Welcome to our company vel"
   contactDetails:
-    email: "accountsdev@bank.coma"
+    email: "accountsdev@bank.com"
