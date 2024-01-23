@@ -4,12 +4,12 @@ spring:
   application:
     name: "accounts"
   profiles:
-    active: "dev"
+    active: "default"
   config:
     import: "optional:configserver:http://localhost:8072/"
 
 mysql:
-  username: "useraaa"
+  username: "user"
   password: "pass"
 #management:
 #  endpoints:
