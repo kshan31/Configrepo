@@ -1,1 +1,6 @@
-{}
+build:
+  versions: "1.02"
+accounts:
+  messages: "Welcome to our product company"
+  contactDetails:
+    emails: "accountsprod@bank.coms"
