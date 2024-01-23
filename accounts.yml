@@ -1,2 +1,21 @@
-build:
-  version: "2221212.00000121212"
+server:
+  port: 8081
+spring:
+  application:
+    name: "accounts"
+  profiles:
+    active: "dev"
+  config:
+    import: "optional:configserver:http://localhost:8072/"
+
+mysql:
+  username: "user"
+  password: "pass"
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: "*"
+
+
+
