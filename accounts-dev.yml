@@ -1,6 +1,6 @@
 build:
-  versions1: "1.011"
+  versions: "1.01"
 accounts:
+  messages: "Welcome to our dev company"
   contactDetails:
-    emails1: "accountsdev@bank.com1"
-  messages1: "Welcome to our dev company1"
+    emails: "accountsdev@bank.com"
