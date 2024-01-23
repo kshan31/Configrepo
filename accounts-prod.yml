@@ -1,6 +1,6 @@
 build:
-  versiona: "1.01a"
+  version: "1.01"
 accounts:
+  message: "WelcomeEEEEE to our company"
   contactDetails:
-    emaila: "accountsprodDDDDD@bank.coma"
-  messagea: "WelcomeEEEEE to our companya"
+    email: "accountsprodDDDDD@bank.com"
