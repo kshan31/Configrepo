@@ -1,6 +1,6 @@
 build:
-  version: "1.012312222222"
+  version: "1.012312222222a"
 accounts:
-  message: "WelcomeEEEEE to our compan1y123 "
+  message: "WelcomeEEEEE to our compan1y123 a"
   contactDetails:
-    email: "accountsprodDDDDD@bank.c1om123"
+    email: "accountsprodDDDDD@bank.c1om123a"
