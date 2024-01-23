@@ -3,4 +3,4 @@ build:
 accounts:
   message: "Welcome to our company vel"
   contactDetails:
-    email: "accountsdev@bank123.com"
+    email: "accountsdev@bank.com"
