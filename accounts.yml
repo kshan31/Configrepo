@@ -9,7 +9,7 @@ spring:
     import: "optional:configserver:http://localhost:8072/"
 
 mysql:
-  username: "user"
+  username: "useraaa"
   password: "pass"
 #management:
 #  endpoints:
