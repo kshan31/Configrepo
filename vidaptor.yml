@@ -1,5 +1,5 @@
 server:
-  port: 2006
+  port: "2007"
 build:
   version: "2.0"
 vidaptor:
