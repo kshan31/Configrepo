@@ -4,3 +4,7 @@ server:
 spring:
   application:
     name: "vidaptor-dataaa"
+build:
+  version: "2.0"
+vidaptor:
+  message: "Welcome to Vidaptorf"
