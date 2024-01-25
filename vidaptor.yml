@@ -1,8 +1,0 @@
-server:
-  port: "5000"
-build:
-  version: "2.0"
-vidaptor:
-  message: "Welcome to Vidaptordfdf"
-  contactDetails:
-    email: "vidaptor@bank.com"
